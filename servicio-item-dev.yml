@@ -1,4 +1,4 @@
 server:
     port: 8007
 
-configuracion:  DEV
+configuracion:  DEV-automatico
